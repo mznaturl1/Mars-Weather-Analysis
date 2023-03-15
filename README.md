@@ -28,7 +28,8 @@ Scrape of Mars Temperature data used to analyze the weather information.
 
 Dataframe created for ease of analysis
 
-![mars_website_data](https://user-images.githubusercontent.com/117309455/225375011-79ea5b4f-7641-4c4a-b461-c1ad2b4c3dd9.png)
+![mars_weather_df](https://user-images.githubusercontent.com/117309455/225378587-52673630-7109-4e89-8310-a7e6817b0860.png)
+
 
 Summary of Analysis
 
